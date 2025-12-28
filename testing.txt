@@ -1,0 +1,42 @@
+<div class="p-4 bg-blue-500 md:p-8 lg:p-12">
+  <!-- mobile: p-4, tablet: p-8, desktop: p-12 -->
+</div>
+
+
+container
+<section class="p-4 sm:p-6 md:p-8 lg:p-12">
+
+typografi
+<h1 class="text-xl sm:text-2xl md:text-4xl lg:text-5xl font-bold">
+  Nama Kamu
+</h1>
+
+
+font-thin
+font-extralight
+font-light
+font-normal
+font-medium
+font-semibold
+font-bold
+font-extrabold
+font-black
+
+text-left
+text-center
+text-right
+text-justify
+
+leading-none
+leading-tight
+leading-snug
+leading-normal
+leading-relaxed
+leading-loose
+
+tracking-tighter
+tracking-tight
+tracking-normal
+tracking-wide
+tracking-wider
+tracking-widest
